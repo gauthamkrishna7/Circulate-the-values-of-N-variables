@@ -30,7 +30,7 @@ k = int(input())
 ```
 
 ## Output:
-<img width="1467" alt="Screenshot 2023-11-29 at 8 16 46 AM" src="https://github.com/gauthamkrishna7/Circulate-the-values-of-N-variables/assets/146015011/14f7787f-feea-4f6c-bb32-777a472b47b4">
+<img width="1467" alt="Screenshot 2023-11-29 at 8 16 46 AM" src="https://github.com/gauthamkrishna-s/Circulate-the-values-of-N-variables/assets/146015011/14f7787f-feea-4f6c-bb32-777a472b47b4">
 
 ## Result:
 Thus the circulation values are successfully executed
